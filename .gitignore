@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+/.vs/
+/.vs/AutomateDeployment/config/applicationhost.config
+/AutomateDeployment/bin/
+/AutomateDeployment/obj/
+/AutomateDeployment/Properties
+/AutomateDeployment.sln.DotSettings.user
+/AutomateDeployment/obj/Debug/netcoreapp3.1
+/AutomateDeployment/bin/Debug/netcoreapp3.1
+/Startup/obj
+/Startup/bin/Debug/netcoreapp3.1
+/AutomateDeployment/AutomateDeployment.csproj.user

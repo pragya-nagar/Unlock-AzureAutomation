@@ -1,0 +1,8 @@
+{
+  "ConnectionString": "Server=unlockokr-db-dev.database.windows.net;Initial Catalog=Master;Persist Security Info=False;User ID=unlockokr-db-dev-admin;Password=fbBfXENoi2WCACXK;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
